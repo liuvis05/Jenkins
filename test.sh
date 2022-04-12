@@ -1,2 +1,2 @@
-#!bin/bash
-echo ""Hello DevOps"
+#!/bin/bash
+echo "Hello DevOps"
